@@ -2,6 +2,8 @@
 First Repository
 Practicing a branch
 
+## Table of Contents
+
 ## Description 
 
 ## How to Run Program
