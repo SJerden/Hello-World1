@@ -11,7 +11,7 @@ Practicing a branch
 - [VERISONING](https://github.com/SJerden/Hello-World1/blob/main/README.md#versioning)
 
 ## Description 
-This is a practice assignment
+This is a practice assignment 😂
 
 ## How to Run Program
 
